@@ -140,6 +140,7 @@ hr{
 }
 .my_picture img{
     width: 48.5%;
+    height: 350px;
 }
 .my_picture img.picture-1{
     margin-right: 20px;
